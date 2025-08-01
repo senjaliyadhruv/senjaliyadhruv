@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋 I'm Dhruv Senjaliya</h1>
-<p align="center">🚀 Multicloud DevOps Engineer | AWS(Primary) • Azure • GCP | Jenkins • GitLab | Terraform • Ansible </br> | Docker • Kubernetes | Grafana • Prometheus • Splunk</p>
+<p align="center"> <strong>🚀 Multicloud DevOps Engineer</strong> | AWS(Primary) • Azure • GCP | Jenkins • GitLab | Terraform • Ansible </br> | Docker • Kubernetes | Grafana • Prometheus • Splunk | </p>
 
 ---
 

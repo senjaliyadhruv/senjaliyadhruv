@@ -69,11 +69,6 @@
  </a>
 </p>
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=senjaliyadhruv&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  </p>
-</p>
-
 ---
 
 🌟 If you like my work, please **star** this profile and check out my pinned projects!

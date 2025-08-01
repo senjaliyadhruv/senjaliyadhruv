@@ -54,20 +54,20 @@
 
 ## 📫 Connect with Me
 
-<p>
- <a href="mailto:senjaliyadhruvr@gmail.com">
+<div>
+ <a href="mailto:senjaliyadhruvr@gmail.com" style="text-decoration: none;">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
- </a>&nbsp;
- <a href="https://www.linkedin.com/in/senjaliyadhruv/">
+ </a>
+ <a href="https://www.linkedin.com/in/senjaliyadhruv/" style="text-decoration: none;">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
- </a>&nbsp;
- <a href="https://github.com/senjaliyadhruv">
+ </a>
+ <a href="https://github.com/senjaliyadhruv" style="text-decoration: none;">
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
- </a>&nbsp;
- <a href="https://senjaliyadhruv.github.io/Portfolio/">
+ </a>
+ <a href="https://senjaliyadhruv.github.io/Portfolio/" style="text-decoration: none;">
    <img src="https://img.shields.io/badge/🌐%20Portfolio-1E3A8A?style=for-the-badge&logoColor=white" alt="Portfolio"/>
  </a>
-</p>
+</div>
 
 ---
 

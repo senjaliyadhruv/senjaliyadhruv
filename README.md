@@ -59,7 +59,7 @@
   <a href="https://www.linkedin.com/in/senjaliyadhruv/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/senjaliyadhruv"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://senjaliyadhruv.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-1e1e1e?style=for-the-badge&logo=firefox&logoColor=white" />
+ 🌐
 </a>
 
 </p>

@@ -1,9 +1,5 @@
 <h1 align="center">Hey there 👋 I'm Dhruv Senjaliya</h1>
-<p align="center">🚀 Multicloud DevOps Engineer | AWS • Azure • GCP | CI/CD • Terraform • Kubernetes</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=senjaliyadhruv&label=Profile%20Visitors" alt="visitors"/>
-</p>
+<p align="center">🚀 Multicloud DevOps Engineer | AWS(Primary) • Azure • GCP | Jenkins • GitLab | Terraform • Ansible | Docker • Kubernetes | Grafana • Prometheus • Splunk</p>
 
 ---
 
@@ -62,7 +58,10 @@
   <a href="mailto:senjaliyadhruvr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/senjaliyadhruv/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/senjaliyadhruv"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://senjaliyadhruv.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+<a href="https://senjaliyadhruv.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-1e1e1e?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+
 </p>
 
 ---

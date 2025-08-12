@@ -40,22 +40,6 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senjaliyadhruv&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=senjaliyadhruv&theme=tokyonight" />
-</p>
-
-
-
-
-
 
 ---
 

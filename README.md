@@ -47,12 +47,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senjaliyadhruv&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=senjaliyadhruv&theme=default&hide_border=true" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senjaliyadhruv&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=senjaliyadhruv&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senjaliyadhruv&theme=tokyonight" />
 </p>
 
 

@@ -44,11 +44,21 @@
 
 ## 📈 GitHub Stats
 
+<!-- Typing animation header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Multicloud+DevOps+Engineer+🚀;AWS+%7C+Terraform+%7C+Kubernetes+%7C+Jenkins;Docker+%7C+ECS+Fargate+%7C+Ansible;Cloud+%26+DevOps+Portfolio+Builder" alt="Typing SVG" />
+</p>
+
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=senjaliyadhruv&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senjaliyadhruv&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=senjaliyadhruv&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senjaliyadhruv&layout=compact&theme=tokyonight" />
 </p>
+
+
 
 ---
 

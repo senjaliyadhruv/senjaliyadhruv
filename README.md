@@ -44,19 +44,27 @@
 
 ## 📈 GitHub Stats
 
-<!-- Typing animation header -->
+<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Multicloud+DevOps+Engineer+🚀;AWS+%7C+Terraform+%7C+Kubernetes+%7C+Jenkins;Docker+%7C+ECS+Fargate+%7C+Ansible;Cloud+%26+DevOps+Portfolio+Builder" alt="Typing SVG" />
 </p>
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senjaliyadhruv&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=senjaliyadhruv&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senjaliyadhruv&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=senjaliyadhruv&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=senjaliyadhruv&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="180"/>
 </p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senjaliyadhruv&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="180"/>
+</p>
+
+<!-- Contributions Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=senjaliyadhruv&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
 
 
 
